@@ -2,10 +2,14 @@ Product Studio Fall'17 project at Cornell Tech.
 
 Team Members:
 
-Zeeshan Hanif\n
+Zeeshan Hanif
+
 Nate Maddrey
+
 Bensu Aydin
+
 Alex Topchisvili
+
 Lixuan Mao
 
 Setup:
